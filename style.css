@@ -388,21 +388,107 @@ color: #818687;
 }
 
 
+container {
+	width: 1170px;
+	margin: 0 auto;
+
+}
+
+.s-2 {
+	margin-bottom: 36px;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 800;
+	font-size: 24px;
+	line-height: 28px;
+	color: #000000;
+	margin-bottom: 30px;
+}
+
+.left-wrapper {
+	width: 718px;
+	display: inline-block;
+	margin-right: 40px;
+	vertical-align: top;
+	margin-top: 60px;
+}
+
+.image-text-div {
+	display: inline-block;
+	margin-bottom: 42px;
+	position: relative;
+}
+h2 {
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 23px;
+	color: #FFFFFF;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	
+}
+
+.image7 {
+	width: 90%;
+	
+}
+
+.image8 {
+	width: 90%;
+	
+}
+
+.right-wrapper {
+	display: inline-block;
+	width: 362px;
+	vertical-align: top;
+}
+
+.image9 {
+	margin-bottom: 98px;
+}
+
+
+.image10 {
+	margin-bottom: 103px;
+}
+
+.image9, .image10, .image11 {
+	width: 100%;
+	
+}
 
 
 
+footer{
+	margin-top: 900px;
+}
 
 
+.img11{
+	vertical-align: middle;
+	margin-left: 1250px;
+	margin-top: -50px;
+}
+
+h1{
+	margin-top: 500px;
+
+}
 
 
-
-
-
-
-
-
-
-
+.my2{
+	color: black;
+    margin-top: -440px;
+    margin-left: -420px;
+    
+}
 
 
 
